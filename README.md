@@ -2,7 +2,9 @@
 # Three-Finger Swipe Gesture Script for Hammerspoon
 
 ## Overview
+I didn't want to pay for BetterTouchTool just for 1 gesture so I created this script. 
 This script enables gesture-based volume control on macOS using **Hammerspoon**. By swiping up or down with three fingers on your trackpad, you can increase or decrease the system volume.
+
 
 ### Features:
 - **Three-Finger Swipe Gesture Detection**: Adjusts the volume based on trackpad swipes.
@@ -52,18 +54,13 @@ You can customize the script by editing the following variables:
 
 ## License
 ```
-Copyright (c) 2024 [Your Name]. All rights reserved.
+Copyright (c) 2024 AndroidDev77. All rights reserved.
 
-This software is the intellectual property of [Your Name] and is provided
+This software is the intellectual property of AndroidDev77 and is provided
 solely for personal use. Any redistribution, modification, or commercial use
 of this software is strictly prohibited without prior written consent from
-[Your Name].
-
-For inquiries or licensing requests, please contact [your email or website].
+AndroidDev77.
 ```
 
 ---
 
-## Author
-- **Name**: [Your Name]
-- **Contact**: [Your Email or Website]
