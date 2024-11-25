@@ -1,5 +1,5 @@
 
-# Three-Finger Swipe Gesture Script for Hammerspoon on MacOS
+# Three-Finger Swipe Volume Control Script for Hammerspoon on MacOS
 
 ## Overview
 I didn't want to pay for BetterTouchTool just for 1 gesture so I created this script. 
